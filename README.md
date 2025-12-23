@@ -1,6 +1,3 @@
-Aqui está o `README.md` completo, formatado profissionalmente e adaptado para a sua PoC (Prova de Conceito) do **Vitta Notifications**, considerando a arquitetura MVVM e o fluxo "Bare Workflow" que configuramos.
-
-```markdown
 # Vitta Notifications PoC 🔔
 
 Micro aplicação desenvolvida em **React Native (Expo Bare Workflow)** com **TypeScript** para validar a arquitetura e a usabilidade das notificações nativas (iOS e Android) do ecossistema Vitta.
